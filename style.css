@@ -771,7 +771,16 @@ position: relative; margin-top: 15px;
    text-align: center; 
    color: #FFFFFF;
     }
-
+.terminos p{
+    text-align: -webkit-auto;
+    margin: auto 10% 1%;
+}
+.terminos h1{
+    margin: auto 35% 2%;
+}
+.termbackground{
+        background-color: #353A90;
+}
 /* Retina -------------------------- */
 @media only screen and (-webkit-min-device-pixel-ratio:2), 
 only screen and (min--moz-device-pixel-ratio:2),
